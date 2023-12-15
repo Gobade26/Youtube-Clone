@@ -1,4 +1,4 @@
 # Youtube-Clone
 created using html css
 <br>
-Author: Nikhil Gobade
+Author: Nikhil Rajeshwar Gobade
